@@ -41,7 +41,7 @@ function App() {
             target='_blanc'
           >
             <img
-              src='public/Jocul-Mortal-al-Mintii.jpg'
+              src='/public/Jocul-Mortal-al-Mintii.jpg'
               height='200'
               width='130'
               alt='Jocul Mortal al Mintii'
@@ -54,7 +54,7 @@ function App() {
             target='_blanc'
           >
             <img
-              src='public/Jocul-Mortal-al-Mintii.jpg'
+              src='/public/Jocul-Mortal-al-Mintii.jpg'
               height='200'
               width='130'
               alt='Jocul Mortal al Mintii'
@@ -67,7 +67,7 @@ function App() {
             target='_blanc'
           >
             <img
-              src='public/Jocul-Mortal-al-Mintii.jpg'
+              src='/public/Jocul-Mortal-al-Mintii.jpg'
               height='200'
               width='130'
               alt='Jocul Mortal al Mintii'
@@ -80,7 +80,7 @@ function App() {
             target='_blanc'
           >
             <img
-              src='public/Jocul-Mortal-al-Mintii.jpg'
+              src='/public/Jocul-Mortal-al-Mintii.jpg'
               height='200'
               width='130'
               alt='Jocul Mortal al Mintii'
@@ -93,7 +93,7 @@ function App() {
             target='_blanc'
           >
             <img
-              src='public/Jocul-Mortal-al-Mintii.jpg'
+              src='/public/Jocul-Mortal-al-Mintii.jpg'
               height='200'
               width='130'
               alt='Jocul Mortal al Mintii'
@@ -108,7 +108,7 @@ function App() {
             target='_blanc'
           >
             <img
-              src='public/Jocul-Mortal-al-Mintii.jpg'
+              src='/public/Jocul-Mortal-al-Mintii.jpg'
               height='200'
               width='130'
               alt='Jocul Mortal al Mintii'
@@ -121,7 +121,7 @@ function App() {
             target='_blanc'
           >
             <img
-              src='public/Jocul-Mortal-al-Mintii.jpg'
+              src='/public/Jocul-Mortal-al-Mintii.jpg'
               height='200'
               width='130'
               alt='Jocul Mortal al Mintii'
@@ -134,7 +134,7 @@ function App() {
             target='_blanc'
           >
             <img
-              src='public/Jocul-Mortal-al-Mintii.jpg'
+              src='/public/Jocul-Mortal-al-Mintii.jpg'
               height='200'
               width='130'
               alt='Jocul Mortal al Mintii'
@@ -147,7 +147,7 @@ function App() {
             target='_blanc'
           >
             <img
-              src='public/Jocul-Mortal-al-Mintii.jpg'
+              src='/public/Jocul-Mortal-al-Mintii.jpg'
               height='200'
               width='130'
               alt='Jocul Mortal al Mintii'
@@ -160,7 +160,7 @@ function App() {
             target='_blanc'
           >
             <img
-              src='public/Jocul-Mortal-al-Mintii.jpg'
+              src='/public/Jocul-Mortal-al-Mintii.jpg'
               height='200'
               width='130'
               alt='Jocul Mortal al Mintii'
