@@ -34,17 +34,141 @@ function App() {
         </p>
       </article>
       <main id='books'>
+        <h1>Books Written By Me</h1>
         <div>
-          <iframe
-            width='500'
-            height='290'
-            src='https://embed.wattpad.com/story/356944930'
-          />
+          <a
+            href='https://www.wattpad.com/story/356944930-jocul-mortal-al-min%C8%9Bii'
+            target='_blanc'
+          >
+            <img
+              src='public/Jocul-Mortal-al-Mintii.jpg'
+              height='200'
+              width='130'
+              alt='Jocul Mortal al Mintii'
+            />
+            <br />
+            <h2 className='Book-title'>Jocul Mortal al mintii</h2>
+          </a>
+          <a
+            href='https://www.wattpad.com/story/356944930-jocul-mortal-al-min%C8%9Bii'
+            target='_blanc'
+          >
+            <img
+              src='public/Jocul-Mortal-al-Mintii.jpg'
+              height='200'
+              width='130'
+              alt='Jocul Mortal al Mintii'
+            />
+            <br />
+            <h2 className='Book-title'>Jocul Mortal al mintii</h2>
+          </a>
+          <a
+            href='https://www.wattpad.com/story/356944930-jocul-mortal-al-min%C8%9Bii'
+            target='_blanc'
+          >
+            <img
+              src='public/Jocul-Mortal-al-Mintii.jpg'
+              height='200'
+              width='130'
+              alt='Jocul Mortal al Mintii'
+            />
+            <br />
+            <h2 className='Book-title'>Jocul Mortal al mintii</h2>
+          </a>
+          <a
+            href='https://www.wattpad.com/story/356944930-jocul-mortal-al-min%C8%9Bii'
+            target='_blanc'
+          >
+            <img
+              src='public/Jocul-Mortal-al-Mintii.jpg'
+              height='200'
+              width='130'
+              alt='Jocul Mortal al Mintii'
+            />
+            <br />
+            <h2 className='Book-title'>Jocul Mortal al mintii</h2>
+          </a>
+          <a
+            href='https://www.wattpad.com/story/356944930-jocul-mortal-al-min%C8%9Bii'
+            target='_blanc'
+          >
+            <img
+              src='public/Jocul-Mortal-al-Mintii.jpg'
+              height='200'
+              width='130'
+              alt='Jocul Mortal al Mintii'
+            />
+            <br />
+            <h2 className='Book-title'>Jocul Mortal al mintii</h2>
+          </a>
         </div>
-        <p>
-          Quick note: For accesing the book press the url button from the 2nd
-          side
-        </p>
+        <div>
+          <a
+            href='https://www.wattpad.com/story/356944930-jocul-mortal-al-min%C8%9Bii'
+            target='_blanc'
+          >
+            <img
+              src='public/Jocul-Mortal-al-Mintii.jpg'
+              height='200'
+              width='130'
+              alt='Jocul Mortal al Mintii'
+            />
+            <br />
+            <h2 className='Book-title'>Jocul Mortal al mintii</h2>
+          </a>
+          <a
+            href='https://www.wattpad.com/story/356944930-jocul-mortal-al-min%C8%9Bii'
+            target='_blanc'
+          >
+            <img
+              src='public/Jocul-Mortal-al-Mintii.jpg'
+              height='200'
+              width='130'
+              alt='Jocul Mortal al Mintii'
+            />
+            <br />
+            <h2 className='Book-title'>Jocul Mortal al mintii</h2>
+          </a>
+          <a
+            href='https://www.wattpad.com/story/356944930-jocul-mortal-al-min%C8%9Bii'
+            target='_blanc'
+          >
+            <img
+              src='public/Jocul-Mortal-al-Mintii.jpg'
+              height='200'
+              width='130'
+              alt='Jocul Mortal al Mintii'
+            />
+            <br />
+            <h2 className='Book-title'>Jocul Mortal al mintii</h2>
+          </a>
+          <a
+            href='https://www.wattpad.com/story/356944930-jocul-mortal-al-min%C8%9Bii'
+            target='_blanc'
+          >
+            <img
+              src='public/Jocul-Mortal-al-Mintii.jpg'
+              height='200'
+              width='130'
+              alt='Jocul Mortal al Mintii'
+            />
+            <br />
+            <h2 className='Book-title'>Jocul Mortal al mintii</h2>
+          </a>
+          <a
+            href='https://www.wattpad.com/story/356944930-jocul-mortal-al-min%C8%9Bii'
+            target='_blanc'
+          >
+            <img
+              src='public/Jocul-Mortal-al-Mintii.jpg'
+              height='200'
+              width='130'
+              alt='Jocul Mortal al Mintii'
+            />
+            <br />
+            <h2 className='Book-title'>Jocul Mortal al mintii</h2>
+          </a>
+        </div>
       </main>
       <article id='contact'>
         <p>
@@ -63,9 +187,14 @@ function App() {
       </article>
       <footer>
         For More Websites like this one don't be afraid to contact the
-        developer:<a href='https://github.com/dotegoo'>GitHub</a>
+        developer:
+        <a href='https://github.com/dotegoo' target='_blanc'>
+          GitHub
+        </a>
         and
-        <a href='https://instagram.com/doteegoo'>Instagram</a>
+        <a href='https://instagram.com/doteegoo' target='_blanc'>
+          Instagram
+        </a>
       </footer>
     </>
   );
