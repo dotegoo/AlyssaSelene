@@ -135,7 +135,7 @@ footer a:hover {
     font-size: 28px;
   }
   main {
-    height: 410vh;
+    height: 100vh;
   }
   main div {
     flex-direction: column;
