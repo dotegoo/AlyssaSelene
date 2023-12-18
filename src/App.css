@@ -17,7 +17,6 @@ nav {
   display: flex;
   align-items: center;
   justify-content: center;
-
   height: 10vh;
 }
 nav a {
@@ -54,7 +53,6 @@ header p {
 }
 article p {
   width: 80%;
-
   padding-top: 10vh;
   font-size: 26px;
   color: #e8c2ca;
@@ -71,7 +69,9 @@ main {
 }
 main h1 {
   padding-top: 10vh;
+  padding-bottom: 5vh;
   text-align: center;
+  font-size: 80px;
 }
 main div {
   padding-bottom: 2vh;
@@ -80,7 +80,6 @@ main div {
   justify-content: center;
   align-items: center;
 }
-
 main div a {
   text-decoration: none;
   display: flex;
@@ -102,14 +101,12 @@ footer {
   font-size: 18px;
   color: #fff;
 }
-
 footer a {
   margin: 0 8px;
   text-decoration: none;
   color: #e8c2ca;
   transition: color 0.3s ease;
 }
-
 footer a:hover {
   color: #fff;
 }
@@ -120,14 +117,12 @@ footer a:hover {
     width: 100%;
     top: 0;
   }
-
   nav a {
     display: block;
     width: 100%;
     text-align: center;
     padding: 1em;
   }
-
   header h1 {
     text-align: center;
     font-size: 60px;
@@ -146,15 +141,12 @@ footer a:hover {
     flex-direction: column;
     align-items: center;
   }
-
   main div a {
     margin-bottom: 10px;
   }
-
   article p {
     font-size: 16px;
   }
-
   footer {
     height: 10vh;
     background-color: #735d78;
@@ -164,7 +156,6 @@ footer a:hover {
     font-size: 18px;
     color: #fff;
   }
-
   footer a {
     margin: 0 8px;
     text-decoration: none;
