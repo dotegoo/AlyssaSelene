@@ -9,28 +9,40 @@ function App() {
         <a href='#books'>
           <li>Books</li>
         </a>
-        <a href='#contact'>
+        {/*<a href='#contact'>
           <li>Contact</li>
-        </a>
+        </a>*/}
       </nav>
       <header>
         <h1>Alyssa Selene</h1>
         <p>Real Lives, Written Chronicle</p>
       </header>
       <article id='about'>
-        <p>
-          Pellentesque habitant morbi tristique senectus et netus et malesuada
-          fames ac turpis egestas. Morbi rutrum metus sit amet ligula suscipit
-          efficitur. Contact us for more information. Sed euismod risus ac mi
-          facilisis, at posuere turpis ullamcorper. Vestibulum euismod gravida
-          odio, nec consectetur odio malesuada eu. Integer sit amet tortor vel
-          ligula euismod sodales eget non sapien. Sed in odio sit amet orci
-          viverra tincidunt eu eu elit. Praesent bibendum vehicula magna, in
-          fermentum leo volutpat et. Nunc ac sodales nunc. Duis efficitur dolor
-          vitae posuere varius. Quisque vestibulum euismod sapien, nec lobortis
-          libero elementum quis. Curabitur laoreet justo vel dolor auctor, nec
-          sagittis lacus bibendum.
-        </p>
+        <h2>About Me</h2>
+        <div id='about-p'>
+          <p>
+            Bun venit pe pagina mea! Sunt Alyssa Selene, o pasionată scriitoare
+            aflată la început de drum în lumea cuvintelor și a poveștilor. Cu
+            sufletul meu încrezător și pixul în mână, explorez universuri noi și
+            aduc la viață personaje captivante.
+            <br />
+            <h1>Cine sunt eu?</h1> Sunt o călătoare în lumea literaturii, o
+            visătoare convinsă și o colecționară de povești. Îmi place să cred
+            că fiecare cuvânt pe care îl scriu este o călătorie într-o altă
+            dimensiune, iar fiecare poveste este o fereastră către imaginația
+            noastră colectivă.
+            <br /> <h1>Ce mă inspiră?</h1> În fiecare zi, găsesc inspirație în
+            cotidian, în emoțiile oamenilor și în frumusețea nesperată a vieții.
+            Îmi place să explorez teme precum dragostea, aventura, reziliența și
+            descoperirea de sine în poveștile mele.
+            <br /> <h1>De ce scriu?</h1> Cuvintele au puterea de a conecta inimi
+            și de a crea lumi întregi. Scriu pentru a împărtăși bucuriile și
+            tristețile, pentru a explora și pentru a înțelege mai profund ceea
+            ce înseamnă să fim oameni. Fiecare cuvânt este o picătură în oceanul
+            cuvintelor, și sper ca poveștile mele să rămână cu tine și să te
+            inspire într-un fel sau altul. <br /> Cu drag, Alyssa Selene
+          </p>
+        </div>
       </article>
       <main id='books'>
         <h1>Books Written By Me</h1>
@@ -50,21 +62,11 @@ function App() {
           </a>
         </div>
       </main>
-      <article id='contact'>
+      {/*<article id='contact'>
         <p>
-          Pellentesque habitant morbi tristique senectus et netus et malesuada
-          fames ac turpis egestas. Morbi rutrum metus sit amet ligula suscipit
-          efficitur. Contact us for more information. Sed euismod risus ac mi
-          facilisis, at posuere turpis ullamcorper. Vestibulum euismod gravida
-          odio, nec consectetur odio malesuada eu. Integer sit amet tortor vel
-          ligula euismod sodales eget non sapien. Sed in odio sit amet orci
-          viverra tincidunt eu eu elit. Praesent bibendum vehicula magna, in
-          fermentum leo volutpat et. Nunc ac sodales nunc. Duis efficitur dolor
-          vitae posuere varius. Quisque vestibulum euismod sapien, nec lobortis
-          libero elementum quis. Curabitur laoreet justo vel dolor auctor, nec
-          sagittis lacus bibendum.
+     
         </p>
-      </article>
+      </article>*/}
       <footer>
         For More Websites like this one don't be afraid to contact the
         developer:
