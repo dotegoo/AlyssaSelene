@@ -143,6 +143,15 @@ footer a:hover {
   header p {
     font-size: 20px;
   }
+  #about h2 {
+    font-size: 32px;
+  }
+  #about p {
+    font-size: 15px;
+  }
+  #about p h1 {
+    font-size: 22px;
+  }
   main h1 {
     text-align: center;
     font-size: 32px;
@@ -183,5 +192,8 @@ footer a:hover {
 @media screen and (min-width: 768px) {
   header h1 {
     text-align: center;
+  }
+  #about {
+    height: 150vh;
   }
 }
